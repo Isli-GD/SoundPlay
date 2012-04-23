@@ -1,1 +1,0 @@
-C:\Users\Luke\Documents\ACTA\maske.jpg,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,test.wav,
